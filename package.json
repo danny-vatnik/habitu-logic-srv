@@ -1,0 +1,13 @@
+{
+    "name": "habitu-logic-srv",
+    "version": "1.0.0",
+    "description": "Habitu Logic Server",
+    "author": "Danny Vatnik <danny.vatnik@rxe2.com>",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    }
+}
